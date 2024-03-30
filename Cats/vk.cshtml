@@ -1,0 +1,13 @@
+@model CatFormModel
+
+@{
+    ViewData["Title"] = "My Form";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-controller="Kitty" asp-action="ProcessForm" method="post">
+    <label asp-for="CatUri">Enter Cat URI:</label>
+    <input asp-for="CatUri" />
+    <input type="submit" value="Submit">
+</form>

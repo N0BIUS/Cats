@@ -443,11 +443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VSPROJECT\\Cats\\Cats\\Cats.csproj",
+      "projectUniqueName": "C:\\Users\\Богдан\\Desktop\\CATSAPI\\Cats\\Cats\\Cats.csproj",
       "projectName": "Cats",
-      "projectPath": "F:\\VSPROJECT\\Cats\\Cats\\Cats.csproj",
+      "projectPath": "C:\\Users\\Богдан\\Desktop\\CATSAPI\\Cats\\Cats\\Cats.csproj",
       "packagesPath": "C:\\Users\\Богдан\\.nuget\\packages\\",
-      "outputPath": "F:\\VSPROJECT\\Cats\\Cats\\obj\\",
+      "outputPath": "C:\\Users\\Богдан\\Desktop\\CATSAPI\\Cats\\Cats\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VSINST\\NuGetPackages"
